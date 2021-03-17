@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Horas HD" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/2109.ts
+#EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Horas SD" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas SD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/2110.ts
+#EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Play HD" tvg-logo="" group-title="Noticias",24 Play HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9980.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/271.ts
